@@ -47,8 +47,8 @@
     list-style-type: none;
   }
 
-  .menubtn li {
-    padding-left: 16px;
+  .menubtn li a{
+    padding-left: 8px;
     
   }
 
