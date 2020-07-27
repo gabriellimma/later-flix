@@ -15,10 +15,12 @@ border-radius: 5px;
 text-decoration: none;
 display: inline-block;
 transition: opacity .3s;
+transition: .3s;
 
 &:hover,
 &:focus {
-    opacity: .5;
+    transition: .3s;
+    border: 1px solid var(--red);
 }
 
 @media (max-width: 800px) {

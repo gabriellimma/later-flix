@@ -11,6 +11,28 @@ function Navbar() {
             <a href="/">
                 <img className="Logo" alt="logo laterflix" src={laterflix} />
             </a>
+            <ul className="menubtn">
+                <li>
+                    <a href="#Science">
+                        Science
+                    </a>                
+                </li>
+                <li>
+                    <a href="#Movies">
+                        Movies
+                    </a>  
+                </li>
+                <li>
+                    <a href="#Docs">
+                        Docs
+                    </a> 
+                </li>
+                <li>
+                    <a href="#Learning">
+                        Learning
+                    </a> 
+                </li>
+            </ul>
             <Button as="a" className="ButtonLink" href="/">
                 adicionar video
             </Button>

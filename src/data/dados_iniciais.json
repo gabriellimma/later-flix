@@ -4,22 +4,18 @@
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Angular: Atualizando projetos para Angular v10 e novidades",
+          "url": "https://www.youtube.com/watch?v=QgdBM2VUW10"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "NextJS - O que é? Qual diferença entre SSG, SPA, SSR? Quando usar?",
+          "url": "https://www.youtube.com/watch?v=X3W-YFe2_io"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O poderoso combo: NextJS + Tailwindcss",
+          "url": "https://www.youtube.com/watch?v=cV3q3OnxmA8"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
@@ -28,10 +24,6 @@
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
           "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
           "titulo": "Novidades do Angular v9",
@@ -46,22 +38,18 @@
     {
       "titulo": "Back End",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
       "videos": [
         {
           "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Tailwind CSS - Curso rápido",
+          "url": "https://www.youtube.com/watch?v=1qH3wAtX4So"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "O Guia +Hardcore de Introdução à COMPUTAÇÃO",
+          "url": "https://www.youtube.com/watch?v=8G80nuEyDN4"
         },
         {
           "titulo": "API: Dicionário do Programador",
@@ -74,33 +62,49 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Science",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "TIMELAPSE OF THE FUTURE: A Journey to the End of Time",
+          "url": "https://www.youtube.com/watch?v=uD4izuDMUQA"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "The Infinite Hotel Paradox - Jeff Dekofsky",
+          "url": "https://www.youtube.com/watch?v=Uj3_KqkI9Zo"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Why self discipline its so hard?",
+          "url": "hhttps://www.youtube.com/watch?v=mVbrgBjZm60"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Imagining the Tenth Dimension (annotated)",
+          "url": "https://www.youtube.com/watch?v=XjsgoXvnStY"
+        },
+        {
+          "titulo": "A filosofia do estoicismo - Massimo Pigliucci",
+          "url": "https://www.youtube.com/watch?v=R9OCA6UFE-0"
+        },
+        {
+          "titulo": "O Que Aconteceu Antes da História? Origens da Humanidade",
+          "url": "https://www.youtube.com/watch?v=dGiQaabX3_o"
+        },
+        {
+          "titulo": "O Paradoxo de Fermi - Somos Todos Nós Alienigenas? (1/2)",
+          "url": "https://www.youtube.com/watch?v=sNhhvQGsMEc"
+        },
+        {
+          "titulo": "A Realidade é Real? A teoria da Simulação",
+          "url": "https://www.youtube.com/watch?v=tlTKTTt47WE&list=WL"
+        },
+        {
+          "titulo": "How to Waste Your Life | A Short Film on Video-Game Addiction",
+          "url": "https://www.youtube.com/watch?v=TFS7Zybkx9s"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Movies",
       "cor": "orange",
       "videos": [
         {
@@ -108,56 +112,32 @@
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Inception",
+          "url": "https://www.youtube.com/watch?v=YoHD9XEInc0"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Life is Bealtiful",
+          "url": "https://www.youtube.com/watch?v=pAYEQP8gx3w"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "JOJO RABBIT",
+          "url": "https://www.youtube.com/watch?v=-ilPoupBusg"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Docs",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "O Código Bill Gates | Trailer oficial | Netflix",
+          "url": "https://www.youtube.com/watch?v=yOCjrGevsdo"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Larning how to learn",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
           "titulo": "Como estudar melhor?",
@@ -168,8 +148,8 @@
           "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Guia DEFINITIVO de Aprendendo a Aprender",
+          "url": "https://www.youtube.com/watch?v=oUPaJxk6TZ0"
         },
         {
           "titulo": "A mágica do Aprendizado",

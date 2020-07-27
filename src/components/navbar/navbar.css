@@ -23,8 +23,8 @@
     padding-left: 5%;
     padding-right: 5%;
   
-    background: var(--black);
-    border-bottom: 2px solid var(--primary);
+    background: var(--blackop);
+    border-bottom: 0px solid var(--red);
   }
   body {
     --bodyPaddingTop: 94px;
@@ -39,6 +39,31 @@
       --bodyPaddingTop: 40px;
       padding-top: var(--bodyPaddingTop);
     }
+  }
+
+  .menubtn {
+    color: white;
+    display: flex;
+    list-style-type: none;
+  }
+
+  .menubtn li {
+    padding-left: 16px;
+    
+  }
+
+  .menubtn li a {
+    text-decoration: none;
+    transition: .3;
+  }
+  
+  .menubtn li a:hover {
+    border-bottom: 1px solid var(--red);
+    transition: .3;
+  }
+
+  .menulink {
+   border: none;
   }
   
   .ButtonLink {
@@ -58,7 +83,7 @@
   }
   .ButtonLink:hover,
   .ButtonLink:focus {
-    opacity: .5;
+    color: var(--red);
   }
   
   @media (max-width: 800px) {
@@ -67,9 +92,9 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background: var(--primary);
+      background: var(--black);
       border-radius: 0;
-      border: 0;
+      border-color: rgba(255, 255, 0, 0);
       text-align: center;
     }
   }
