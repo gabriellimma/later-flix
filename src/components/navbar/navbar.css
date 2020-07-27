@@ -58,8 +58,9 @@
   }
   
   .menubtn li a:hover {
-    border-bottom: 1px solid var(--red);
+    color: var(--red);
     transition: .3;
+    
   }
 
   .menulink {
