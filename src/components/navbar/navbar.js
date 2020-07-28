@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import laterflix from '../../assets/images/laterflix.png';
 import './navbar.css';
 //import ButtonLink from '../../components/button/ButtonLink';
@@ -8,9 +9,9 @@ function Navbar() {
 
     return (
         <nav className="Menu">
-            <a href="/">
+            <Link to="/">
                 <img className="Logo" alt="logo laterflix" src={laterflix} />
-            </a>
+            </Link>
             <ul className="menubtn">
                 <li>
                     <a href="#Science">
@@ -33,7 +34,7 @@ function Navbar() {
                     </a> 
                 </li>
             </ul>
-            <Button as="a" className="ButtonLink" href="/">
+            <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 adicionar video
             </Button>
         </nav>
