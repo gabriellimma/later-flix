@@ -1,13 +1,18 @@
 import React from 'react';
+import styled from 'styled-components';
 import Navbar from '../../components/navbar/navbar'
 import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
 
+const AppWrapper = styled.div`
+  background: var(--grayDark);
+`
+
 function App() {
   return (
-    <div style={{ background: "#141414" }}>
+    <AppWrapper>
       <Navbar />
       <BannerMain
         videoTitle={dadosIniciais.categorias[2].videos[0].titulo}
@@ -46,7 +51,7 @@ function App() {
     </div>
       <Footer />
             
-    </div>
+    </AppWrapper>
   );
 }
 

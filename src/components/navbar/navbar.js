@@ -14,22 +14,22 @@ function Navbar() {
             </Link>
             <ul className="menubtn">
                 <li>
-                    <a href="#Science">
+                    <a href="#Science" className="navItem">
                         Science
                     </a>                
                 </li>
                 <li>
-                    <a href="#Movies">
+                    <a href="#Movies" className="navItem">
                         Movies
                     </a>  
                 </li>
                 <li>
-                    <a href="#Docs">
+                    <a href="#Docs" className="navItem">
                         Docs
                     </a> 
                 </li>
                 <li>
-                    <a href="#Learning">
+                    <a href="#Learning" className="navItem">
                         Learning
                     </a> 
                 </li>

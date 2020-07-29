@@ -3,6 +3,7 @@ import React from 'react';
 import SlickSlider from 'react-slick';
 import styled from 'styled-components';
 
+
 const Container = styled.ul`
   padding: 0;
   margin: 0;
@@ -15,13 +16,16 @@ const Container = styled.ul`
     width: 30px;
     height: 30px;
     transform: initial;
+    
     &:before {
-      font-size: 30px;
+      font-size: 40px;
+      color: ${({ categoryColor }) => `${categoryColor}` };
     }
   }
   
   .slick-prev {
     left: 0;
+
   }
   .slick-next {
     right: 16px;
