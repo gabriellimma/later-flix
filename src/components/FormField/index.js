@@ -87,7 +87,6 @@ function FormField({
         />
         <Label.Text>
           {label}
-          :
         </Label.Text>
       </Label>
     </FormFieldWrapper>
